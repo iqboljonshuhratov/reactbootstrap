@@ -1,0 +1,14 @@
+#rut{
+   background-color: black;
+}
+
+.App{
+    color: black !important;
+}
+
+@media (min-width: 1200px) {
+    .containers{
+        padding:0 80px;
+        
+    }
+}

@@ -1,0 +1,10 @@
+.containers {
+  width: 100% !important;
+  padding: 30px;
+}
+
+@media (min-width: 1200px) {
+  .containers {
+    padding: 70px;
+  }
+}/*# sourceMappingURL=App.css.map */

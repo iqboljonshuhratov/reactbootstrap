@@ -1,0 +1,37 @@
+.link{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.button-box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.futter{
+    margin-top: 90px;
+    border-top: 0.1px solid white;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    .futter-box1{
+        display: flex;
+        width: 58%;
+        gap: 10px;
+    }
+
+    .futter-box2{
+        display: flex;
+        width: 37%;
+        gap: 20px;
+
+        .futter4{
+            width: 400px !important;
+        }
+        }
+    }
+

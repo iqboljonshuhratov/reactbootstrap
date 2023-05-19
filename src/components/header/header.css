@@ -1,0 +1,17 @@
+.headerdiv {
+  width: 100%;
+  background-color: rgba(215, 250, 248, 0.656);
+  border-radius: 15px;
+  height: 660px;
+}
+
+@media (max-width: 1200px) {
+  .headerdiv {
+    height: 460px !important;
+  }
+}
+@media (max-width: 988px) {
+  .headerdiv {
+    height: 360px !important;
+  }
+}/*# sourceMappingURL=header.css.map */

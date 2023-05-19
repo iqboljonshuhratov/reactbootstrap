@@ -1,0 +1,52 @@
+
+header{
+    position: relative;
+    z-index: 3;
+}
+
+.nav-home{
+    gap: 30px;
+}
+#navbarid{
+    background-color: rgba(184, 178, 178, 0.862);
+}
+#navbarblack{
+    background-color: black;
+}
+.navber{
+    width: 100% !important;
+    transition: 1s;
+}
+.utilities{
+    .search{
+        width: 50px !important;
+        height: 40px !important;
+    }
+}
+
+.bg{
+    background-color: black;
+    color: white ;
+    height: 100% !important;
+}
+
+#collasible-nav-dropdown{
+    color: black !important;
+}
+
+.Brand{
+    color: black;
+}
+
+
+.input-box{
+    border-radius: 20px;
+    padding: 5px;
+    border: 1px solid black;
+    input{
+        border: 0;
+        border-radius: 20px;
+        padding-left: 10px;
+    }
+}
+
